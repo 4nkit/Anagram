@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Anagrams</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="letter">
+        <item>One letter</item>
+        <item>Two letter</item>
+    </string-array>
+</resources>
